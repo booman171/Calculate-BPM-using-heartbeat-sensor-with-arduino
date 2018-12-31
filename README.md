@@ -1,1 +1,1 @@
-Calculate BPM using heartbeat sensor with arduino
+Hanya program dasar untuk menghitung beat per minute (BPM) sensor heartbeat dengan arduino
